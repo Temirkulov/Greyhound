@@ -29,6 +29,9 @@ The complete 3D CAD model is available on [GrabCAD](https://grabcad.com/library/
 | Kinematics | MATLAB |
 | Physics simulation | MuJoCo |
 
-## Author
 Software stack is private
+
+
+## Author
+
 **Mirkamol Temirkulov** — BSc (Hons) Computer Science, Sunway University. Designed and built as a university capstone project.
