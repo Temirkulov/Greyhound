@@ -23,12 +23,12 @@ The complete 3D CAD model is available on [GrabCAD](https://grabcad.com/library/
 | Mechanical design | Autodesk Fusion 360 |
 | Embedded control | STM32, C, PWM servo control |
 | Onboard computing | NVIDIA Jetson Orin Nano |
-| Sensing | Intel RealSense D435i RGB-D camera, IMU |
-| Robotics software | ROS, CHAMP |
+| Sensing | Intel RealSense D435i RGB-D camera, IMU (BNO086) |
+| Robotics software | ROS1, CHAMP |
 | Computer vision | YOLOv11 |
 | Kinematics | MATLAB |
 | Physics simulation | MuJoCo |
 
 ## Author
-
+Software stack is private
 **Mirkamol Temirkulov** — BSc (Hons) Computer Science, Sunway University. Designed and built as a university capstone project.
